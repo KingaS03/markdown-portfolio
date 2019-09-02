@@ -1,1 +1,1 @@
-![Link to my profile](https://github.com/KingaS03)
+[Link to my profile](https://github.com/KingaS03)
